@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "dlwhite112",
 	"description": "This is only a test, I repeat, this is only an Awesome test.",
+	"keywords": ["freecodecamp", "Javascript", "dl.dev","flawless victory"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
