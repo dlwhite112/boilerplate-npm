@@ -3,8 +3,11 @@
 	"author": "dlwhite112",
 	"description": "This is only a test, I repeat, this is only an Awesome test.",
 	"keywords": ["freecodecamp", "Javascript", "dl.dev","flawless victory"],
+	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
